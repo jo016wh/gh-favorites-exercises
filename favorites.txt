@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Peppermint
 Celery
 Pretzels
+=======
+Peppermint Chip Ice Cream
+Soft Pretzels
+Celery
+>>>>>>> movies
